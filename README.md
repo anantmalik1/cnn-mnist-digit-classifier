@@ -141,7 +141,7 @@ cnn-mnist-digit-classifier
 
 ### Clone Repository
 
-git clone https://github.com/anantmalik1/cnn-mnist-digit-classifier.git
+git clone https://github.com/anantmalik 1/cnn-mnist-digit-classifier.git
 
 ---
 
