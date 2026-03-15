@@ -141,7 +141,7 @@ cnn-mnist-digit-classifier
 
 ### Clone Repository
 
-git clone https://github.com/anantmalik 1/cnn-mnist-digit-classifier.git
+git clone https://github.com/anantmalik1/cnn-mnist-digit-classifier.git
 
 ---
 
@@ -193,7 +193,7 @@ Currently exploring deep learning and building AI projects using Python.
 # 🔥 3D Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR-USERNAME&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anantmalik1&theme=tokyonight"/>
 </p>
 
 ---
